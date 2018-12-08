@@ -100,10 +100,10 @@ var I18N_DATA = {
     button2: 'Noriu groti',
     button3: 'Išsiųsti',
 
-    placeholder1: 'Jusu vardas',
-    placeholder2: 'Telefonas',
-    placeholder3: 'Email',
-    placeholder4: 'Jusu komentarai/'
+    placeholder1: 'Jūsų vardas',
+    placeholder2: 'Telefono numeris',
+    placeholder3: 'El. paštas',
+    placeholder4: 'Jūsų klausimai/komentarai'
   },
   ru: {
     menuItem1: 'RU Lessons',
