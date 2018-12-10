@@ -58,7 +58,7 @@ var I18N_DATA = {
     menuItem3: 'Kainos',
     menuItem4: 'Kontaktai',
 
-    sectionTitle1: 'Privacios pianino pamokos',
+    sectionTitle1: 'Privačios pianino pamokos',
     sectionTitle2: 'Pas mus jūs išmoksite:',
     sectionTitle3: "Sveiki! Aš esu Oksana Karataj,<br>",
     sectionTitle4: "Kainos",
