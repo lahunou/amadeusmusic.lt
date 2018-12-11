@@ -1,13 +1,14 @@
 var I18N_DATA = {
   en: {
-    menuItem1: 'Lessons',
-    menuItem2: 'About',
+    menuItem1: 'About',
+    menuItem2: 'Lessons',
     menuItem3: 'Pricing',
-    menuItem4: 'Contacts',
+    menuItem4: 'Book a lesson',
+    menuItem5: 'Contacts',
 
     sectionTitle1: 'Private piano lessons',
     sectionTitle2: 'What we study',
-    sectionTitle3: "Hi, I'm Oksana Karataj",
+    sectionTitle3: "Hi, I'm Oksana Karataj<br>",
     sectionTitle4: "Pricing",
     sectionTitle5: 'BOOK YOUR FIRST LESSON',
     sectionTitle6: 'Contacts',
@@ -24,6 +25,7 @@ var I18N_DATA = {
     subtitle10: 'At our studio',
     subtitle11: 'At your place',
     subtitle12: 'Studio address:',
+    subtitle13: 'We invite adults and children from 4 y.o. to experience the joy of playing piano!',
 
     text1: "It's never too late to learn playing piano. Whatever is your musical goal, I'll help you to achieve it with no pain.",
     text2: "Impress your loved ones, friends, or colleagues with a song on the piano. We can adapt it for you to make it easier to perform while still sounding awesome. Depending on its difficulty you will need from 1 to 5 lessons to learn it.",
@@ -42,6 +44,7 @@ var I18N_DATA = {
     text15: "One 30 min. piano lesson (suggested for kids and teenagers) — <b>15€</b><br>One 45-50 min. piano lesson (for adults) — <b>20€</b>",
     text16: "I can teach you to play piano at your place if you have an instrument. It will cost from <b>25€</b> per lesson (depending on how far do you live).",
     text17: "Don't allow lack of knowledge to kill your aspiration. Write me here to ask anything about my piano lessons. Or just book your first lesson and let's start playing!",
+    text18: "EN I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
 
     button1: 'START PLAYING',
     button2: 'Book a lesson',
@@ -53,10 +56,11 @@ var I18N_DATA = {
     placeholder4: 'Your comments/questions'
   },
   lt: {
-    menuItem1: 'Užsiėmimai',
-    menuItem2: 'Apie mus',
+    menuItem1: 'Apie mus',
+    menuItem2: 'Užsiėmimai',
     menuItem3: 'Kainos',
-    menuItem4: 'Kontaktai',
+    menuItem4: 'LT Book a lesson',
+    menuItem5: 'Kontaktai',
 
     sectionTitle1: 'Privačios pianino pamokos',
     sectionTitle2: 'Pas mus jūs išmoksite:',
@@ -77,13 +81,14 @@ var I18N_DATA = {
     subtitle10: 'Mūsų studijoje',
     subtitle11: 'Jūsų namuose',
     subtitle12: 'Muzikos studija “AMADEUS”',
+    subtitle13: 'LT We invite adults and children from 4 y.o. to experience the joy of playing piano!',
 
     text1: "Mokytis groti niekada nevėlu! Pajuskite muzikavimo džiaugsmą!",
     text2: "Seniai svajojate groti F. Šopeno preliudus, o gal norite nustebinti artimuosius per šventes ir išmokti tik vieną kūrinį? Aš jums padėsiu įgyvendinti visus jūsų tikslus!",
     text3: "Studijoje “AMADEUS” nėra jokių ilgalaikių sutarčių. Mokykites, kol jums tai yra įdomu, mokėkite tik už tas pamokas, kurias lankėte!",
     text4: "Darbo metodika parenkama individualiai pagal kiekvieno amžių, poreikius ir gebėjimus. O repertuarą renkame kartu! Grosime viską — nuo klasikinės, liaudies muzikos, džiazo iki roko ir populiarių dainų aranžuočių.",
     text5: "Jeigu jūsų pageidaujamo kūrinio natų nėra galimybės gauti, be papildomo mokesčio savarankiškai renkame natas, aranžuojame labai sudėtingus kūrinius pagal jūsų lygį, kuriame dainų aranžuotes fortepijonui solo specialiai jums! Taip pat mokome surinkti natas kompiuterine programa, jeigu pats planuojate kurti.",
-    text6: "",
+    text6: "LT I create lesson plans individually for every student depending on your musical goals and time you possess. Here is what we usually do on our classes.",
     text7: "Pamokose naudojamos interaktyvios natos padės jums greičiau suprasti ir išmokti muzikos kalbą.",
     text8: 'Ritmo pratimus atliksime naudojant perkusinius instrumentus - afrikietiškus būgnus “džembė”, barškutį-kiaušinį ir perkusines lazdeles.',
     text9: 'Jūs išmoksite atpažinti ir atskirti įvairias natas bei akordus iš klausos, kas leis jums savarankiškai rinkti ir atlikti išgirstas melodijas be natų.',
@@ -95,6 +100,7 @@ var I18N_DATA = {
     text15: "30 min. (rekomenduojama vaikams ir paaugliams) — <b>15€</b><br>One 45-50 min. piano lesson (for adults) — <b>20€</b>",
     text16: "Pamokos gali būti vedamos ir jūsų namuose! Kaina pagal susitarimą nuo <b>25€</b>.",
     text17: "Jeigu turite klausimų, ar norite užsiregistruoti pirmai pamokai, užpildykite šią formą, nurodydami pageidaujamą pamokų laiką ir mes su jumis susisieksime!",
+    text18: "LT I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
 
     button1: 'NORIU GROTI',
     button2: 'Noriu groti',
@@ -106,14 +112,15 @@ var I18N_DATA = {
     placeholder4: 'Jūsų klausimai/komentarai'
   },
   ru: {
-    menuItem1: 'RU Lessons',
-    menuItem2: 'RU About',
+    menuItem1: 'RU About',
+    menuItem2: 'RU Lessons',
     menuItem3: 'RU Pricing',
-    menuItem4: 'RU Contacts',
+    menuItem4: 'RU Book a lesson',
+    menuItem5: 'RU Contacts',
 
     sectionTitle1: 'RU Private piano lessons',
     sectionTitle2: 'RU What we study',
-    sectionTitle3: "RU Hi, I'm Oksana Karataj",
+    sectionTitle3: "RU Hi, I'm Oksana Karataj<br>",
     sectionTitle4: "RU Pricing",
     sectionTitle5: 'RU BOOK YOUR FIRST LESSON',
     sectionTitle6: 'RU Contacts',
@@ -130,6 +137,7 @@ var I18N_DATA = {
     subtitle10: 'RU At our studio',
     subtitle11: 'RU At your place',
     subtitle12: 'RU Studio address:',
+    subtitle13: 'RU We invite adults and children from 4 y.o. to experience the joy of playing piano!',
 
     text1: "RU It's never too late to learn playing piano. Whatever is your musical goal, I'll help you to achieve it with no pain.",
     text2: "RU Impress your loved ones, friends, or colleagues with a song on the piano. We can adapt it for you to make it easier to perform while still sounding awesome. Depending on its difficulty you will need from 1 to 5 lessons to learn it.",
@@ -148,6 +156,7 @@ var I18N_DATA = {
     text15: "RU One 30 min. piano lesson (suggested for kids and teenagers) — <b>15€</b><br>One 45-50 min. piano lesson (for adults) — <b>20€</b>",
     text16: "RU I can teach you to play piano at your place if you have an instrument. It will cost from <b>25€</b> per lesson (depending on how far do you live).",
     text17: "RU Don't allow lack of knowledge to kill your aspiration. Write me here to ask anything about my piano lessons. Or just book your first lesson and let's start playing!",
+    text18: "RU I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
 
     button1: 'RU START PLAYING',
     button2: 'RU Book a lesson',
