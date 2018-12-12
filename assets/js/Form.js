@@ -31,19 +31,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // $(this)[0].action = submitURL;
 
-    $('#placeholder1').siblings('.t-input-error').hide();
     $('#placeholder3').siblings('.t-input-error').hide();
-
-    if (nameValue.length == 0) {
-      validationErrors.push('name');
-
-      $('#placeholder1').siblings('.t-input-error').show().text('should be present');
-    }
 
     if (emailValue.length == 0) {
       validationErrors.push('email');
 
-      $('#placeholder3').siblings('.t-input-error').show().text('should be present');
+      $('#placeholder3').siblings('.t-input-error').show().text('Nurodykite jūsų el.paštą, kad mes galėtume su jumis susisiekti!');
     }
 
     if (validationErrors.length == 0) {
@@ -54,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
         success: function() {
         },
         error: function() {
-          $('#button3').text('Thank you!');
+          $('#button3').text('Ačiu!');
           form.find("input[type=text], textarea").val("");
         }
       });
