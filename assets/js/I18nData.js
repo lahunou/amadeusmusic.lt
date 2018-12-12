@@ -8,7 +8,7 @@ var I18N_DATA = {
 
     sectionTitle1: 'Private piano lessons',
     sectionTitle2: 'What we study',
-    sectionTitle3: "Hi, I'm Oksana Karataj<br>",
+    sectionTitle3: "Hi, I'm Oksana Karataj<br><br>",
     sectionTitle4: "Pricing",
     sectionTitle5: 'BOOK YOUR FIRST LESSON',
     sectionTitle6: 'Contacts',
@@ -44,7 +44,7 @@ var I18N_DATA = {
     text15: "One 30 min. piano lesson (suggested for kids and teenagers) — <b>15€</b><br>One 45-50 min. piano lesson (for adults) — <b>20€</b>",
     text16: "I can teach you to play piano at your place if you have an instrument. It will cost from <b>25€</b> per lesson (depending on how far do you live).",
     text17: "Don't allow lack of knowledge to kill your aspiration. Write me here to ask anything about my piano lessons. Or just book your first lesson and let's start playing!",
-    text18: "EN I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
+    text18: "I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
     text19: "",
 
     button1: 'START PLAYING',
