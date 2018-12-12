@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
         success: function() {
         },
         error: function() {
-          $('#button3').text('Ačiu!');
+          $('#button3').text('Ačiū!');
           form.find("input[type=text], textarea").val("");
         }
       });
