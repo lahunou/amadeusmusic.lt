@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', function() {
   $('#bookingForm').on('submit',function(e) {
     e.preventDefault();
 
+    var form = $(this);
+
     var validationErrors = [];
 
     var baseURL = 'https://docs.google.com/forms/d/e/1FAIpQLSfEqlxO17L0Q9aUg7shqpYDhvEJMn5bUtrD46eZNlRQqURXzQ/formResponse?';
@@ -53,6 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         error: function() {
           $('#button3').text('Thank you!');
+          form.find("input[type=text], textarea").val("");
         }
       });
     }
