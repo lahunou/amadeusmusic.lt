@@ -45,6 +45,7 @@ var I18N_DATA = {
     text16: "I can teach you to play piano at your place if you have an instrument. It will cost from <b>25€</b> per lesson (depending on how far do you live).",
     text17: "Don't allow lack of knowledge to kill your aspiration. Write me here to ask anything about my piano lessons. Or just book your first lesson and let's start playing!",
     text18: "EN I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
+    text19: "",
 
     button1: 'START PLAYING',
     button2: 'Book a lesson',
@@ -101,6 +102,7 @@ var I18N_DATA = {
     text16: "Pamokos gali būti vedamos ir jūsų namuose! Kaina pagal susitarimą nuo <b>25€</b>.",
     text17: "Jeigu turite klausimų, ar norite užsiregistruoti pirmai pamokai, užpildykite šią formą, nurodydami pageidaujamą pamokų laiką ir mes su jumis susisieksime!",
     text18: "LT I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
+    text19: "Studijų metais naujų pedagoginių priemonių paieškose parašiau magistrinį darbą \"Informacinių-komunikacinių technologijų taikymas fortepijono mokytojo pedagoginiame darbe\". Eksperimentinė darbo dalis parodė, kad kompiuterinės muzikos mokymosi programos, interaktyvios natos ir net įvairūs kompiuteriniai muzikiniai žaidimai motyvuoja mokinius, leidžia lengviau ir greičiau įsisavinti teorinę medžiagą ir žymiai pagerina mokymosi rezultatus. Mano pedagoginė praktika parodė, kad tokie darbo metodai tinkami naudoti mokant ne tik įvairaus amžiaus vaikus, bet ir suaugusius žmones. Taip gimė idėja atidaryti naują privačią muzikos studiją \"Amadeus\", kurioje mokant groti fortepijonu vaikus ir suaugusius būtų taikomi ne tik tradicinės klasikinės, bet ir moderniosios pedagogikos principai, paskutinės pedagoginės naujovės.",
 
     button1: 'NORIU GROTI',
     button2: 'Noriu groti',
@@ -157,6 +159,7 @@ var I18N_DATA = {
     text16: "RU I can teach you to play piano at your place if you have an instrument. It will cost from <b>25€</b> per lesson (depending on how far do you live).",
     text17: "RU Don't allow lack of knowledge to kill your aspiration. Write me here to ask anything about my piano lessons. Or just book your first lesson and let's start playing!",
     text18: "RU I cover all music styles, enabling my piano students to learn through the playing the songs that they love. Whether it is classical music, pop, rock, pop, jazz, folk or anything in between we can cover it in our lessons. You know what you want to play, but there's no sheet music available? No problem! I will create and arrange sheet music of the piece you want exclusively for you at no additional cost!",
+    text19: "Studijų metais naujų pedagoginių priemonių paieškose parašiau magistrinį darbą \"Informacinių-komunikacinių technologijų taikymas fortepijono mokytojo pedagoginiame darbe\". Eksperimentinė darbo dalis parodė, kad kompiuterinės muzikos mokymosi programos, interaktyvios natos ir net įvairūs kompiuteriniai muzikiniai žaidimai motyvuoja mokinius, leidžia lengviau ir greičiau įsisavinti teorinę medžiagą ir žymiai pagerina mokymosi rezultatus. Mano pedagoginė praktika parodė, kad tokie darbo metodai tinkami naudoti mokant ne tik įvairaus amžiaus vaikus, bet ir suaugusius žmones. Taip gimė idėja atidaryti naują privačią muzikos studiją \"Amadeus\", kurioje mokant groti fortepijonu vaikus ir suaugusius būtų taikomi ne tik tradicinės klasikinės, bet ir moderniosios pedagogikos principai, paskutinės pedagoginės naujovės.",
 
     button1: 'RU START PLAYING',
     button2: 'RU Book a lesson',

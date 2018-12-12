@@ -14,3 +14,18 @@
     background-color: rgba(0,0,0,0);
   }
 }
+
+.t-input-error {
+  font-weight: bold;
+  color: #fff;
+}
+
+.activeBlock {
+  display: block !important;
+}
+
+@media screen and (max-width: 640px) {
+  .title-sm {
+    font-size: 72px !important;
+  }
+}
