@@ -28,4 +28,16 @@
   .title-sm {
     font-size: 72px !important;
   }
+
+  #about {
+    padding-bottom: 0 !important;
+  }
+
+  #rec78533061 {
+    padding-bottom: 0 !important;
+  }
+
+  .padding-custom {
+    padding-right: 20px !important;
+  }
 }
